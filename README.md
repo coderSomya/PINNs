@@ -1,0 +1,1 @@
+Stands for Physics Informed Neural Networks. Physical Information in the form of differential equations can be used to regularize neural networks. This repo is a collection of exercises relating to the same.
